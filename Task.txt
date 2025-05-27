@@ -1,0 +1,8 @@
+Practical assessment
+DSG ltd is company which sells smartphone, tablets and other digital devices, they don’t
+have digital way of managing their store, they want someone who can create web based
+application which will help them to know available store for each product, but they don’t
+need to use any DBMS simple to use PHP arrays and other related concepts to build the
+system.so as web application developer, Imagine a web-based inventory management system
+for a retail store and build The system to display a list of products, allow for product updates, and
+manage stock levels for this company.
